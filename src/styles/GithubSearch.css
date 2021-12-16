@@ -1,0 +1,22 @@
+form, ul {
+    padding: 26px 32px;
+    background-color: white;
+    border-radius: 20px;
+    font-size: large;
+}
+
+label {
+    margin-right: 8px;
+}
+
+input {
+    font-size: large;
+    height: 100%;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 4px;
+}
+
+ul {
+    list-style: none;
+    background-color: white;
+}
